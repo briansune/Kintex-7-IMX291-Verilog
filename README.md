@@ -1,6 +1,6 @@
 # kintex7-IMX291/IMX290-fpga-mipi-camera
 
-This is a renew revision of IMX291 MIPI CSI-2 Camera Demonstration from <a href="https://github.com/gatecat/CSI2Rx.git" target="_blank">Original Post</a>.
+This is a modified MIPI CSI-2 Camera example from <a href="https://github.com/gatecat/CSI2Rx.git" target="_blank">Original Post</a>.
 
 ## If this project is constructive, welcome to donate a drink to PayPal.
 
